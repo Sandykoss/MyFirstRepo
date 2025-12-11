@@ -1,1 +1,1 @@
-Learnt about cloning and forking in Git
+what I have learned from this course
